@@ -3,7 +3,7 @@ server:
   servlet:
     contextPath: /ems
   ssl:
-    enabled: true
+    enabled: false
     key-store: ../certificates/ssl.jks
     key-store-password: pathbreaker
     key-alias: pbt
